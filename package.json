@@ -1,0 +1,13 @@
+{
+    "name": "manatee",
+    "description": "An open-source Unity3d menu framework.",
+    "version": "1.0.0",
+    "homepage": null,
+    "author": "Sam Alston",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "projenody-pm": "git+https://github.com/kennelbound-unity/projenody-pm.git"
+    }
+}

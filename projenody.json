@@ -1,0 +1,9 @@
+{
+    "name": "manatee",
+    "assetsFolder": "Assets",
+    "targetFolder": "/manatee",
+    "projectSettingsFolder": "ProjectSettings",
+    "applicationPackage": true,
+    "pluginPackage": false,
+    "pluginOverrides": null
+}
